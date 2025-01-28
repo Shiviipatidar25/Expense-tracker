@@ -102,3 +102,5 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
 });
+ // making logic in js
+ 
